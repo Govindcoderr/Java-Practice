@@ -1,0 +1,25 @@
+
+
+class first_program
+{
+   public static void main (String args[])
+   {
+      String name = "Govind singh"; 
+	  
+	  int age = 20;
+	  
+	  float weight = 65.63F;
+	  
+	  char grade_12th = 'A';
+	  
+	  
+	  System.out.println("Employee Name is :" + name);
+	  System.out.println("Employee age is :" + age);
+	  System.out.println("Employee weight is :" + weight);
+	  System.out.println("Employee grade12th is :" + grade_12th);
+	  
+	  
+   }
+
+
+}
